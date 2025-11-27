@@ -87,3 +87,6 @@ HTML,CSS,JavaScript, PHP,Bootstrap
 
 Link pubblico alla web app:
 https://github.com/barbierisilviostudente-arch/Progetto_5IE_SILVIOBARBIERI_BiblioNet
+
+Link al prototipo dell'interfaccia:
+https://lovable.dev/projects/50a07c12-d8fd-4761-b629-96b48bd7f2e5?magic_link=mc_d2ace215-d01c-4089-b532-4425bb2f53f1
