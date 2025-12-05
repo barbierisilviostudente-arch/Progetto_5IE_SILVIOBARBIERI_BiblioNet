@@ -89,4 +89,4 @@ Link pubblico alla web app:
 https://github.com/barbierisilviostudente-arch/Progetto_5IE_SILVIOBARBIERI_BiblioNet
 
 Link al prototipo dell'interfaccia:
-https://lovable.dev/projects/50a07c12-d8fd-4761-b629-96b48bd7f2e5?magic_link=mc_d2ace215-d01c-4089-b532-4425bb2f53f1
+https://lovable.dev/projects/a92e2d67-cc0f-41c2-92f3-95926dc08c6e?magic_link=mc_12880397-adfa-4367-b160-4f5068f09e7d
