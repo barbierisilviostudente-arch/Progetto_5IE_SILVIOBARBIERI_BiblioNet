@@ -90,3 +90,12 @@ https://github.com/barbierisilviostudente-arch/Progetto_5IE_SILVIOBARBIERI_Bibli
 
 Link al prototipo dell'interfaccia:
 https://lovable.dev/projects/a92e2d67-cc0f-41c2-92f3-95926dc08c6e?magic_link=mc_12880397-adfa-4367-b160-4f5068f09e7d
+
+DIAGRAMMA DEI CASI D'USO:
+https://drive.google.com/file/d/1RkAiJxpe_ytIahK-cas7-oZQWoFShNJ2/view?usp=drive_link
+
+DIAGRAMMA DELLE CLASSI:
+https://drive.google.com/file/d/1QJDCOzHxgPIPqh2okppBKVY1up1H4q8i/view?usp=drive_link
+
+DIAGRAMMA ER:
+https://drive.google.com/file/d/11Myg_4LOPN_3VdeIZEs9qZv58NmAR9_i/view?usp=drive_link
