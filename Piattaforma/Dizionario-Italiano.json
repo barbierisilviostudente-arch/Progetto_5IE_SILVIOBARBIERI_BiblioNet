@@ -1,0 +1,34 @@
+{
+    "Etichetta-Italiano" :"it",
+    "___LOCALIZZAZIONE-ACCEDI-ITALIANO___" : "LOCALIZZAZIONE ITALIANA DELLA PAGINA DI ACCESSO",
+
+    "Titolo-Accedi" : "Accedi",
+    "SottoTitolo-Accedi1" : "Ricomincia esattamente da dove avevi lasciato...",
+    "SottoTitolo-Accedi2" : "...tutto in pochi e semplici passaggi",
+    "Avviso-Accedi" : "Compilare il modulo per accedere",
+    "Posta-Elettronica" : "Indirizzo di posta elettronica",
+    "Contrassegno" : "Password",
+    "Stato" : "Stato (Italia or España)",
+    "Mancato-Profilo" : "Non hai un profilo?",
+    "Invito-Registrazione" : "Registrati ora",
+
+
+
+
+    "___LOCALIZZAZIONE-REGISTRATI-ITALIANO___" : "LOCALIZZAZIONE ITALIANA DELLA PAGINA DI REGISTRAZIONE",
+
+    "Titolo-Registrati" : "Registrazione",
+    "SottoTitolo-Registrati1" : "Sfrutta tutte le possibilità della piattaforma BiblioNet...",
+    "SottoTitolo-Registrati2" : "...diventa anche tu un membro",
+    "Avviso-Registrati" : "Compilare il modulo per registrarsi",
+    "Nome" : "Nome",
+    "Cognome" : "Cognome",
+    "Selezione-Ruolo" : "Seleziona il tuo ruolo:",
+    "Moderatore" : "Moderatore",
+    "Pubblicatore" : "Pubblicatore",
+    "Selezione-Stato" : "Seleziona il tuo stato:",
+    "Italia" : "Italia",
+    "España" : "España",
+    "Fine-Registrazione" : "Registra il profilo",
+    "Profilo-Presente" : "Hai già un profilo?" 
+}

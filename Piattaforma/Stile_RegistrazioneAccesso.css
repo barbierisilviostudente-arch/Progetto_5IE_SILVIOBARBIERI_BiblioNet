@@ -1,0 +1,93 @@
+body 
+{
+    background-color: #C0C0C0;
+}
+
+.Corpo-Accesso
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 20px;
+    border: 2px solid #B30033;
+    border-radius: 25px;
+    background-color: #F2F2F2;
+}
+
+
+.Sfondo-Presentazione
+{
+    /*background-color:#C80815 ;*/
+    /*background-color: #800000;*/
+    background-color: #B30033;
+    opacity: 1;
+}
+
+#Titolo_Principale
+{
+    text-align: center;
+    font-weight: bold
+}
+
+#Sotto-titolo
+{
+    text-align: center;
+    font-weight: lighter;
+}
+
+#Modulo-Accesso
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+input, select
+{
+    width: 100%;
+    padding: 12px 20px;
+    background: #e6e6e6;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+button
+{
+    width: 100%;
+    padding: 12px 20px;
+    background: #B30033;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 20px;
+    transition: 0.5s;
+    font-weight: bold;
+}
+
+button:hover
+{
+    background: #800000;
+}
+
+#Accedi-Registrati
+{
+    text-decoration: none;
+}
+
+#Accedi-Registrati:hover
+{
+    text-decoration: underline;
+}
+
+#Sotto-titolo-Registrazione
+{
+    font-weight: lighter;
+}

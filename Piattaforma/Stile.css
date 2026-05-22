@@ -1,0 +1,108 @@
+.Sfondo-Presentazione
+{
+    /*background-color:#C80815 ;*/
+    /*background-color: #800000;*/
+    background-color: #B30033;
+    opacity: 1;
+}
+
+.Sfondo-Schede
+{
+    background-color: #800032 ;
+    opacity: 0.91;
+}
+
+.Sfondo-Schede:hover
+{
+    background-color: #800020;
+    opacity: 0.97;
+}
+
+#Lega_Stati 
+{ 
+    background-color: #007bff; 
+    color: white; padding: 8px 16px; 
+    border-radius: 6px; transition: 0.2s; 
+} 
+
+#Lega_Stati:hover 
+{ 
+    background-color: #0056b3; 
+    cursor: pointer; 
+}
+
+#Titolo_Principale
+{
+    text-align: center;
+    font-weight: bold
+}
+
+#Altro_Titolo
+{
+    text-align: center;
+    font-weight: lighter;
+    font-size: larger
+}
+
+#Sotto-titolo
+{
+    text-align: center;
+    font-weight: lighter;
+}
+
+#Stile-Bottoni
+{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#Stile-Collegamenti
+{
+    color: #2B292E;
+    text-decoration: none; 
+}
+
+#Sfondo-Pagina
+{
+    background-image: url("../Sfondi/AlcazarSegovia.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; /* opzionale: mantiene lo sfondo fisso durante lo scroll */ 
+    background-color: #B30033; /* fallback se l'immagine non è caricata */
+}
+
+#Sfondo-ChiSiamo
+{
+    background-image: url("../Sfondi/MilanoSpagnola.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; /* opzionale: mantiene lo sfondo fisso durante lo scroll */ 
+    background-color: #B30033; /* fallback se l'immagine non è caricata */
+}
+
+.card-icon-inline 
+{
+    width: 2rem;          /* usa rem per accessibilità */
+    height: 2rem;
+    object-fit: contain;
+}
+
+.card
+{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    padding: 14px 80px 18px 36px;
+    cursor: pointer;
+}
+
+.card:hover
+{
+     transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
